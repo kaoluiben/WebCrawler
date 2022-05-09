@@ -1,0 +1,22 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "webcrawler",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaoluiben/WebCrawler.git"
+  },
+  "keywords": [
+    "WebCrawler"
+  ],
+  "author": "allenkao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaoluiben/WebCrawler/issues"
+  },
+  "homepage": "https://github.com/kaoluiben/WebCrawler#readme"
+}
